@@ -1,5 +1,5 @@
-SRC_NAME = htop-3.0.2
-SRC_URL = https://sources.openwrt.org/htop-3.0.2.tar.gz
+SRC_NAME = htop-2.2.0
+SRC_URL = https://sources.openwrt.org/htop-2.2.0.tar.gz
 THISDIR = $(shell pwd)
 
 all: download_test extract_test config_test
